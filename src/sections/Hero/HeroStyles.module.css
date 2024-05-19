@@ -73,8 +73,9 @@
 
 .description {
   max-width: 24ch;
+  text-align: center;
+  margin: 0 auto;
 }
-
 .info {
   display: flex;
   flex-direction: column;
